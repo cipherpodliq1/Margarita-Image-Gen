@@ -121,3 +121,5 @@ If you'd like to contribute:
 
 ### Tests, logging improvements, prompt tricks, and integrations are welcome!
 
+## LinkedIn
+[Here](https://www.linkedin.com/in/kristiyan-radev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
