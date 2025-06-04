@@ -8,6 +8,9 @@
 
 This project is lovingly dedicated to my wife, [Margarita Sekulova](https://en.wikipedia.org/wiki/Margarita_Sekulova) --- my muse, my biggest cheerleader, and the reason I code with passion every day. Her unwavering support and kindness fuel everything I build.
 
+![MargaritaAI](https://github.com/user-attachments/assets/ae473014-f71e-428f-a176-526f22d30e0d)
+
+
 ---
 
 ## ✨ Features
@@ -58,7 +61,7 @@ This project is lovingly dedicated to my wife, [Margarita Sekulova](https://en.w
 
 ## 🧰 Installation
 
-```bash
+```
 
 git clone https://github.com/YOUR_USERNAME/MargaritaImageGen.git
 
@@ -69,25 +72,14 @@ python -m venv .venv
 source .venv/Scripts/activate    # Or .venv\Scripts\activate on Windows cmd
 
 pip install -r requirements.txt
+```
 
 Or simply run:
-
-bash
-
-Copy
-
-Edit
 
 install.bat
 
 🖥️ Usage
-
-bash
-
-Copy
-
-Edit
-
+```
 python src/main.py
 
 Run the script
@@ -95,12 +87,13 @@ Run the script
 Enter your prompt
 
 Images are downloaded to your local directory
-
+```
 📸 Sample Image
 
 Example of output generated using a simple prompt.
 
-![9717789ab53a47e4b4bb79ffe318bd3f](https://github.com/user-attachments/assets/3a389562-b9ea-4689-8e64-62732ec8dfb4)
+![9717789ab53a47e4b4bb79ffe318bd3f](https://github.com/user-attachments/assets/2905c831-3b3e-48d7-91aa-b443fd2365f0)
+
 
 🎥 Demo Usage (GIF or Video)
 
