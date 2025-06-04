@@ -100,7 +100,7 @@ Images are downloaded to your local directory
 
 Example of output generated using a simple prompt.
 
-<!-- Replace with actual image path -->
+![9717789ab53a47e4b4bb79ffe318bd3f](https://github.com/user-attachments/assets/3a389562-b9ea-4689-8e64-62732ec8dfb4)
 
 🎥 Demo Usage (GIF or Video)
 
